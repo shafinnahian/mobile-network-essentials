@@ -12,6 +12,7 @@ I will add all the necessary documents to prepare for the Mobile Network course,
     * [Documentation](https://en.wikipedia.org/wiki/Johnson%E2%80%93Nyquist_noise)
 
 * Modulation
+  * [Quick study guide](./modulation_and_multiplexing/Modulation%20&%20Multiplexing%20Study%20Guide.pdf)
   * Digital Modulation Techniques
     * [ASK | FSK | PSK | BPSK | QPSK Basic understanding & simulation (Video)](https://www.youtube.com/watch?v=tn5NgjzNq_w)
     * [ASK | FSK | PSK Documentation](https://circuitdesign.de/design_guide/digital-modulation/)
