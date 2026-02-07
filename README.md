@@ -14,6 +14,12 @@ I will add all the necessary documents to prepare for the Mobile Network course,
 * Modulation
   * [Quick study guide](./modulation_and_multiplexing/Modulation%20&%20Multiplexing%20Study%20Guide.pdf)
   * Digital Modulation Techniques
-    * [ASK | FSK | PSK | BPSK | QPSK Basic understanding & simulation (Video)](https://www.youtube.com/watch?v=tn5NgjzNq_w)
+    * [ASK | FSK | PSK | BPSK | QPSK Basic understanding & simulation [YT Video]](https://www.youtube.com/watch?v=tn5NgjzNq_w)
     * [ASK | FSK | PSK Documentation](https://circuitdesign.de/design_guide/digital-modulation/)
-    * [8-PSK, 8-QAM, 16-QAM wave simulation](https://www.youtube.com/watch?v=zqzLtg0TodU)
+    * [8-PSK, 8-QAM, 16-QAM wave simulation[YT Video]](https://www.youtube.com/watch?v=zqzLtg0TodU)
+    * [What is OFDM [YT Video]](https://www.youtube.com/watch?v=VwnUuBshXGw)
+    * [OFDM bullet points (German)](https://de.mathworks.com/discovery/ofdm.html)
+    * [Comparitive analysis between FDM, TDM and combination](https://docs.google.com/spreadsheets/d/1EMRw5AuoNVMjcFgAIHIHI1V-K1tdcX4jOZLC3eY6Ovs/edit?usp=sharing)
+
+* Medium Access in Wireless Domain
+  * [Quick study guide](./Medium%20Access%20in%20the%20Wireless%20Domain/Wireless_MAC_Study_Guide.docx)
